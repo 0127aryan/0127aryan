@@ -9,7 +9,7 @@ I'm a passionate developer with a keen interest in backend development and andro
 - 🔭 I’m currently working on exciting web backend projects.
 - 🌱 I’m currently learning advanced JavaScript and TypeScript.
 - 👯 I’m looking to collaborate on nodejs projects
-# - 🤔 I’m looking for help with cloud deployment.
+- 🤔 I’m looking for help with Backend Development.
 - 💬 Ask me about app development and backend development
 - 📫 How to reach me: aryankhandelwal0127@gmail.com
 
