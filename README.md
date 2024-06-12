@@ -1,4 +1,4 @@
-# Hi there, I'm John Doe 👋
+# Hi there, I'm Aryan Khandelwal 👋
 
 ![Profile views](https://github.com/0127aryan)
 
