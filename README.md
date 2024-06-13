@@ -6,9 +6,9 @@
 
 I'm a passionate developer with a keen interest in backend development and android application development
 
-- 🔭 I’m currently working on exciting web backend projects.
-- 🌱 I’m currently learning advanced JavaScript and TypeScript.
-- 👯 I’m looking to collaborate on nodejs projects
+- 🔭 I’m currently working on exciting backend projects which includes NodeJS, MongoDB and Express.
+- 🌱 I’m currently learning advanced NodeJS and express.
+- 👯 I’m looking to collaborate on Backend web projects
 - 🤔 I’m looking for help with Backend Development.
 - 💬 Ask me about app development and backend development
 - 📫 How to reach me: aryankhandelwal0127@gmail.com
@@ -16,10 +16,10 @@ I'm a passionate developer with a keen interest in backend development and andro
 ## 🛠️ Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=kotlin)
 
 ## 📈 GitHub Stats
