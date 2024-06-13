@@ -15,14 +15,14 @@ I'm a passionate developer with a keen interest in backend development and andro
 
 ## 🛠️ Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoWidth=50)
-![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoWidth=50)
-![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoWidth=50)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb&logoWidth=50)
-![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoWidth=50)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=kotlin&logoWidth=50)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?style=flat&logo=android-studio&logoWidth=50)
-![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-000?style=flat&logo=jetpack-compose&logoWidth=50)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript&logoWidth=100)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js&logoWidth=100)
+![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoWidth=100)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb&logoWidth=100)
+![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git&logoWidth=100)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=kotlin&logoWidth=100)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?style=flat&logo=android-studio&logoWidth=100)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-000?style=flat&logo=jetpack-compose&logoWidth=100)
 
 
 
