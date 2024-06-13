@@ -1,6 +1,6 @@
 # Hi there, I'm Aryan Khandelwal 👋
 
-![Profile views](https://gpvc.arturio.dev/0127aryan)
+![Profile views](https://profile-counter.glitch.me/0127aryan/count.svg)
 
 ## About Me
 
