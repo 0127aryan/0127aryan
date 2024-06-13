@@ -29,12 +29,8 @@ I'm a passionate developer with a keen interest in backend development and andro
 
 ![Aryan Khandelwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0127aryan&show_icons=true&hide_border=true)
 
-## 📈 GitHub Stats
-
-![Aryan's GitHub Stats](https://img.shields.io/badge/GitHub-Stats-success?style=flat&logo=github&logoColor=white&labelColor=2ea44f&color=success&label=&message=Contributions)
-
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/johnDoe](https://www.linkedin.com/in/aryan-khandelwal-796a2521b/))
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)]([https://twitter.com/johnDoe](https://twitter.com/AryanKh53383160))
+[![LinkedIn]((https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)(https://www.linkedin.com/in/aryan-khandelwal-796a2521b/))
+[![Twitter]((https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/AryanKh53383160))
