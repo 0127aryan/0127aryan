@@ -34,10 +34,6 @@ I'm a passionate developer with a keen interest in backend development and andro
 ![Aryan's GitHub Stats](https://img.shields.io/badge/GitHub-Stats-success?style=flat&logo=github&logoColor=white&labelColor=2ea44f&color=success&label=&message=Contributions)
 
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=0127aryan&theme=flat&no-frame=true&margin-w=30)
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/johnDoe](https://www.linkedin.com/in/aryan-khandelwal-796a2521b/))
