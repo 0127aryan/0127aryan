@@ -1,6 +1,6 @@
 # Hi there, I'm Aryan Khandelwal 👋
 
-![Profile views](https://profile-counter.glitch.me/0127aryan/count.svg)
+![Profile views](https://komarev.com/ghpvc/?username=0127aryan)
 
 ## About Me
 
