@@ -29,6 +29,11 @@ I'm a passionate developer with a keen interest in backend development and andro
 
 ![Aryan Khandelwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0127aryan&show_icons=true&hide_border=true)
 
+## 📈 GitHub Stats
+
+![Aryan's GitHub Stats](https://img.shields.io/badge/GitHub-Stats-success?style=flat&logo=github&logoColor=white&labelColor=2ea44f&color=success&label=&message=Contributions)
+
+
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=0127aryan&theme=flat&no-frame=true&margin-w=30)
