@@ -15,12 +15,14 @@ I'm a passionate developer with a keen interest in backend development and andro
 
 ## 🛠️ Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
+### ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=kotlin)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?style=flat&logo=android-studio)
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-000?style=flat&logo=jetpack-compose)
 
 ## 📈 GitHub Stats
 
