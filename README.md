@@ -4,10 +4,10 @@
 
 ## About Me
 
-I'm a passionate developer with a keen interest in backend development and android application development
+I'm a passionate developer with a keen interest in MERN Stack Development ,backend development and android application development
 
-- 🔭 I’m currently working on exciting backend projects which includes NodeJS, MongoDB and Express.
-- 🌱 I’m currently learning advanced NodeJS and express.
+- 🔭 I’m currently working on exciting backend projects which includes NodeJS, ReactJS, MongoDB and Express.
+- 🌱 I’m currently learning advanced NodeJS, ReactJS and express.
 - 👯 I’m looking to collaborate on Backend web projects
 - 🤔 I’m looking for help with Backend Development.
 - 💬 Ask me about app development and backend development
