@@ -8,10 +8,11 @@ I'm a passionate developer with a keen interest in MERN Stack Development ,backe
 
 - 🔭 I’m currently working on exciting backend projects which includes NodeJS, ReactJS, MongoDB and Express.
 - 🌱 I’m currently learning advanced NodeJS, ReactJS and express.
-- 👯 I’m looking to collaborate on Backend web projects
+- 👯 I’m looking to collaborate on MERN STACK web projects
 - 🤔 I’m looking for help with Backend Development.
-- 💬 Ask me about app development and backend development
+- 💬 Ask me about app development and MERN Stack Development
 - 📫 How to reach me: aryankhandelwal0127@gmail.com
+- 🫣 Here is my Personal Portfolio Website - aryankhandelwal-portfolio.netlify.app
 
 ## 🛠️ Languages and Tools
 
@@ -32,10 +33,12 @@ I'm a passionate developer with a keen interest in MERN Stack Development ,backe
 ## 📈 GitHub Stats
 
 ![Aryan Khandelwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0127aryan&show_icons=true&hide_border=true)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9ebe1915-4716-46ec-b985-296a0af10971/deploy-status)](https://app.netlify.com/sites/aryankhandelwal-portfolio/deploys)
 
 
 ## 📫 Connect with Me
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://aryankhandelwal-portfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aryan-khandelwal-796a2521b/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/AryanKh53383160)
 
