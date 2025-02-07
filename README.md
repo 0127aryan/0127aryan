@@ -12,7 +12,7 @@ I'm a passionate developer with a keen interest in MERN Stack Development ,backe
 - 🤔 I’m looking for help with Backend Development.
 - 💬 Ask me about app development and MERN Stack Development
 - 📫 How to reach me: aryankhandelwal0127@gmail.com
-- 🫣 Here is my Personal Portfolio Website - [Personal Portfolio Website](https://aryankhandelwal-portfolio.netlify.app/)
+- 🫣 Here is my Personal Portfolio Website - [Personal Portfolio Website](https://www.aryankhandelwal.tech/)
 
 ## 🛠️ Languages and Tools
 
