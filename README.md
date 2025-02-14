@@ -38,7 +38,7 @@ I'm a passionate developer with a keen interest in MERN Stack Development ,backe
 
 ## 📫 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://aryankhandelwal-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://aryankhandelwal.tech/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/aryan-khandelwal-796a2521b/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/AryanKh53383160)
 
